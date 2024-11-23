@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Samy</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-- 🌱 I’m currently learning **Software Engineering in the faculty**
+- 🌱 I’m a Software Engineering Graduat**
 
 - 📫 How to reach me **omarsamy0211@gmail.com**
 
